@@ -15,5 +15,5 @@ You can also check the raw data of csv file too.
 bikeshare.py, chicago.csv, washington.csv, new_york_city.csv (csv files are gitignored.)
 
 ### Credits
-https://stackoverflow.com/questions/20109391/how-to-make-good-reproducible-pandas-examples
-https://udacity.github.io/git-styleguide/
+Tips about pandas: https://stackoverflow.com/questions/20109391/how-to-make-good-reproducible-pandas-examples
+Tips about git commit message: https://udacity.github.io/git-styleguide/
