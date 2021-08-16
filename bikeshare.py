@@ -146,6 +146,7 @@ def user_stats(df):
         print("*Gender\n", gender)
     else:
         print("\nNo gender information for this city!")
+    # washington.csv file has no gender information
 
     # TO DO: Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df.columns:
@@ -179,7 +180,7 @@ def display_data(df):
                 break
             else:
                 view_data = input("Please enter only yes or no: ").lower()
-    
+
 
     
 
